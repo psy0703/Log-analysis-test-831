@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DayBeginUDF/DayBeginUDF.iml" filepath="$PROJECT_DIR$/DayBeginUDF/DayBeginUDF.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-processing/data-processing.iml" filepath="$PROJECT_DIR$/data-processing/data-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkasparknew/kafkasparknew.iml" filepath="$PROJECT_DIR$/kafkasparknew/kafkasparknew.iml" />
       <module fileurl="file://$PROJECT_DIR$/log-analysis.iml" filepath="$PROJECT_DIR$/log-analysis.iml" />
     </modules>
   </component>

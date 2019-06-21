@@ -6,17 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common" />
         <module name="data-processing" />
-        <module name="DayBeginUDF" />
+        <module name="common" />
+        <module name="kafkasparknew" />
         <module name="spark-streaming" />
+        <module name="DayBeginUDF" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common" target="1.8" />
+      <module name="common" target="6" />
       <module name="data-processing" target="1.7" />
-      <module name="DayBeginUDF" target="1.8" />
-      <module name="log-analysis" target="1.8" />
+      <module name="DayBeginUDF" target="1.5" />
+      <module name="kafkasparknew" target="1.5" />
+      <module name="log-analysis" target="1.5" />
       <module name="spark-streaming" target="1.7" />
     </bytecodeTargetLevel>
   </component>
